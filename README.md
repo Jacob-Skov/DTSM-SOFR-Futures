@@ -1,5 +1,4 @@
-# DTSM-SOFR-Futures
-Dynamic Term Structure Models for SOFR Futures
+# Dynamic Term Structure Models for SOFR Futures
 
 This reposity contains the key code parts to the paper "Dynamic Term Structure Models for SOFR Futures".
 Specifically XX implements the Extended Kalman Filter used in the estimation of the three-facotr AFNS and shadow rate model.
