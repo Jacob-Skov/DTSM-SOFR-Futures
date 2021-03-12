@@ -12,6 +12,6 @@ The following Libraries have been used:
 
 Eigen (https://eigen.tuxfamily.org/index.php?title=Main_Page) \
 Boost (https://www.boost.org/) \
-Numerical (https://github.com/PatWie/CppNumericalSolvers)
+Optimlib (https://github.com/PatWie/CppNumericalSolvers)
 
 The code should be seen as inspiration to implement similar models as those presented in the paper for e.g. SOFR or EFFR futures. 
