@@ -9,8 +9,11 @@ Note: The functions are created to fit a certain futures input data used in the 
 The c++ code also has a number of dependencies which have to be included to run the code.
 
 The following Libraries have been used:
+
 Eigen (https://eigen.tuxfamily.org/index.php?title=Main_Page)
+
 Boost (https://www.boost.org/)
+
 Numerical (https://github.com/PatWie/CppNumericalSolvers)
 
 The code should be seen as inspiration to implement similar models for e.g. SOFR or EFFR futures. 
