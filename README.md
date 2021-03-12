@@ -1,8 +1,8 @@
 # Dynamic Term Structure Models for SOFR Futures
 
 This reposity contains the key code parts to the paper "Dynamic Term Structure Models for SOFR Futures".
-Specifically XX implements the Extended Kalman Filter used in the estimation of the three-facotr AFNS and shadow rate model.
-Furthermore, "Auxiliary.h" contains the necessary functions to price one- and three-month SOFR futures contracts in the Gaussian models considered in the paper as well as the shadow rate extension.
+Specifically "SOFR_AFNS3diag.h" and "SOFR_shadow3diag.h" implements the Extended Kalman Filter used in the estimation of the three-facotr AFNS and shadow rate model.
+Furthermore, "Auxiliary.h" contains the necessary functions to price one- and three-month SOFR futures contracts in the Gaussian models considered in the paper as well as the shadow rate extension. "Gaussians.h" and "
 
 Note: The functions are created to fit a certain futures input data used in the article. Appropriate modifications therefore have to be made for it to run on different data.
 
